@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.22.10",
     "concurrently": "^5.1.0"
   },
   "dependencies": {
