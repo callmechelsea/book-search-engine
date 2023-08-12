@@ -68,7 +68,7 @@ const resolvers = {
         );
 
         return updatedUser;
-        },
+        };
     },
 };
 
