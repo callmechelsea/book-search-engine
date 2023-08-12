@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.8.1",
+    "@apollo/server": "^4.9.1",
     "ansi-regex": "^4.1.1",
     "ansi-styles": "^3.2.1",
     "apollo-server": "^3.12.0",
